@@ -1,0 +1,8 @@
+{
+  "title": "alt:V - Cloth Menu",
+  "url": "https://github.com/ExXTreMe315/cloth-menu",
+  "description": "This resource allows players to customize their outfits in alt:V, including DLC clothing items. The NativeUI based menu enables easy selection and adjustment of clothing options, providing a seamless experience for personalizing character appearance. Perfect for server owners looking to enhance player immersion with a dynamic clothing system or just testign cloth.",
+  "tags": ["javascript", "player", "tool"],
+  "cover": "https://imgur.com/a/BvFekhr.png",
+  "cli": false
+}
